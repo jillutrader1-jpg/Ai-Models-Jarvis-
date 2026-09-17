@@ -1,0 +1,2 @@
+# This is a full-stack Node.js / React application.
+# For Render.com deployment, select 'Node' runtime in your service settings.
