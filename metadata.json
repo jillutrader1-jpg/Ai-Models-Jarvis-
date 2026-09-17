@@ -1,0 +1,7 @@
+{
+  "name": "Jarvis AI Phone Controller & Python Generator",
+  "description": "বাংলা ভয়েস চালিত জারভিস এআই যা আপনার ফোন নিয়ন্ত্রণ করবে এবং সম্পূর্ণ পাইথন কোড প্রদান করে।",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
